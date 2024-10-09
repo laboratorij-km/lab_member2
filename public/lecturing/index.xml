@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecturing on Member Hugo Template</title>
+    <link>http://localhost:1313/member_repository/lecturing/</link>
+    <description>Recent content in Lecturing on Member Hugo Template</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2024 11:00:24 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/member_repository/lecturing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subject2</title>
+      <link>http://localhost:1313/member_repository/lecturing/subject2/</link>
+      <pubDate>Mon, 07 Oct 2024 11:00:24 +0200</pubDate>
+      <guid>http://localhost:1313/member_repository/lecturing/subject2/</guid>
+      <description>Course Title In this section, provide detailed information about the course, such as:&#xA;Course Description: A brief overview of the course content, objectives, and topics covered.&#xA;Example:&#xA;This course introduces fundamental concepts in machine learning, including supervised and unsupervised learning, neural networks, and deep learning.&#xA;Learning Outcomes: List the key outcomes students are expected to achieve by the end of the course.&#xA;Example:&#xA;Understand core machine learning algorithms. Apply machine learning techniques to real-world problems.</description>
+    </item>
+    <item>
+      <title>Subject1</title>
+      <link>http://localhost:1313/member_repository/lecturing/subject1/</link>
+      <pubDate>Mon, 07 Oct 2024 11:00:20 +0200</pubDate>
+      <guid>http://localhost:1313/member_repository/lecturing/subject1/</guid>
+      <description>Course Title In this section, provide detailed information about the course, such as:&#xA;Course Description: A brief overview of the course content, objectives, and topics covered.&#xA;Example:&#xA;This course introduces fundamental concepts in machine learning, including supervised and unsupervised learning, neural networks, and deep learning.&#xA;Learning Outcomes: List the key outcomes students are expected to achieve by the end of the course.&#xA;Example:&#xA;Understand core machine learning algorithms. Apply machine learning techniques to real-world problems.</description>
+    </item>
+  </channel>
+</rss>

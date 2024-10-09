@@ -1,0 +1,22 @@
+baseURL = 'https://laboratorij-km.github.io/ime-priimek/' # change member_repository to your repository name
+languageCode = 'en-us'
+title = 'Member Hugo Template'
+theme = "member-theme"
+  
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/" 
+    weight = 1
+
+  [[menu.main]]
+    name = "Lecturing"
+    url = "/lecturing/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+
+

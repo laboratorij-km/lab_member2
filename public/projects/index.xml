@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Member Hugo Template</title>
+    <link>http://localhost:1313/member_repository/projects/</link>
+    <description>Recent content in Projects on Member Hugo Template</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2024 11:00:44 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/member_repository/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project2</title>
+      <link>http://localhost:1313/member_repository/projects/project2/</link>
+      <pubDate>Mon, 07 Oct 2024 11:00:44 +0200</pubDate>
+      <guid>http://localhost:1313/member_repository/projects/project2/</guid>
+      <description>Project 2 Use this page to provide detailed information about a specific project you&amp;rsquo;re working on. Include the project&amp;rsquo;s goals, methodologies, progress, and any relevant outcomes or publications.&#xA;Example:&#xA;Project Title: Machine Learning for Healthcare Objective: To improve diagnostic accuracy using deep learning models. Methods: Data preprocessing, neural network design, and model evaluation. Outcome: Improved accuracy by 15% compared to traditional methods. Link this page from the projects overview to give visitors more context about your individual projects.</description>
+    </item>
+    <item>
+      <title>Project1</title>
+      <link>http://localhost:1313/member_repository/projects/project1/</link>
+      <pubDate>Mon, 07 Oct 2024 11:00:42 +0200</pubDate>
+      <guid>http://localhost:1313/member_repository/projects/project1/</guid>
+      <description>Project 1 Use this page to provide detailed information about a specific project you&amp;rsquo;re working on. Include the project&amp;rsquo;s goals, methodologies, progress, and any relevant outcomes or publications.&#xA;Example:&#xA;Project Title: Machine Learning for Healthcare Objective: To improve diagnostic accuracy using deep learning models. Methods: Data preprocessing, neural network design, and model evaluation. Outcome: Improved accuracy by 15% compared to traditional methods. Link this page from the projects overview to give visitors more context about your individual projects.</description>
+    </item>
+  </channel>
+</rss>
